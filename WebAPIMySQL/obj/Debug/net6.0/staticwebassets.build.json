@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MX9tLKjF4gcNpPR1XA2I3IkehmX6CRQhVEtg7BaETnM=",
+  "Source": "WebAPIMySQL",
+  "BasePath": "_content/WebAPIMySQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
